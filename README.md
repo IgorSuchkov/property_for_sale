@@ -1,2 +1,4 @@
 # property_for_sale
-The real estate service data is an archive of ads for several years about the sale of apartments in St. Petersburg and neighboring settlements.
+Real estate service data - archive of announcements for several years about the sale of apartments in St. Petersburg and neighboring settlements.
+
+Task - perform data analysis and find patterns
