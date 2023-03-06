@@ -1,2 +1,2 @@
 # property_for_sale
-Данные сервиса недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах.
+The real estate service data is an archive of ads for several years about the sale of apartments in St. Petersburg and neighboring settlements.
