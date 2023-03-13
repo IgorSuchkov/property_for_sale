@@ -4,3 +4,9 @@ Real estate service data - archive of announcements for several years about the 
 # Task
 - Perform data analysis
 - Find patterns
+
+# Libraries for work
+- pandas
+- seaborn
+- numpy
+- matplotlib.pyplot
